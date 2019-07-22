@@ -1,0 +1,13 @@
+1. Create an VM instance and install apache server
+
+2. Go to Stackdriver monitoring.
+
+3. From resources, select instances.
+
+4. Select the instance created.
+
+5. Create uptime-health check, along with a policy
+
+6. In the Notification Channel, select email.
+
+7. Now whenever the instance gets stopped, we will receive an email.

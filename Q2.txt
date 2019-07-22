@@ -1,0 +1,17 @@
+1.Open google cloud SDK
+
+2.Enter the following command:
+   gcloud init
+
+3.Create a new configuration
+
+4. Proceed by logging in
+
+5. Create a new project
+
+6. Enter "gcloud init" command again
+
+7. Repeat steps 3 to 5
+
+8. Now enter the command:
+   gcloud auth login

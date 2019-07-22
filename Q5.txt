@@ -1,0 +1,17 @@
+1. TO Copy from one bucket to another 
+gsutil cp gs://arun-01/localytics.png arun-02/localytics-copy.png
+
+2. To Move from one bucket to another
+gsutil mv gs://arun-01/localytics.png gs://arun-02/localytics.png
+
+3. TO Download an abject
+gsutil cp gs://arun-01/localytics.png Desktop/temp.png
+
+4. To Upload an object
+gsutil cp Desktop/temp.png gs://arun-01/localytics-01.png
+
+5. To Delete an object 
+gsutil rm gs://arun-02/localytics.png
+
+
+

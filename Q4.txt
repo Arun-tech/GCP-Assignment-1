@@ -1,0 +1,4 @@
+Goto service account page
+Create Service account
+add a role to service account only to view cloud storage
+now create VM instance with this service account

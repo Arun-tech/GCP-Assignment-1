@@ -1,0 +1,10 @@
+1. Create a Dataset in BigQuery
+
+2. Go to Stackdriver and create export
+
+3. The filter that has to be submitted is:
+  -- resource.type="gce_firewall_rule"
+
+4. Create a sink
+
+5. Now the logs will get exported to the selected destination on dataset's table.
